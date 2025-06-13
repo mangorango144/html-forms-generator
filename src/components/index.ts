@@ -1,0 +1,1 @@
+export { HtmlFormsGenerator } from "./HtmlFormsGenerator";

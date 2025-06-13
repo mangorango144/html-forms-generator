@@ -1,5 +1,7 @@
+import { HtmlFormsGenerator } from "./components";
+
 function App() {
-  return <></>;
+  return <HtmlFormsGenerator />;
 }
 
 export default App;
